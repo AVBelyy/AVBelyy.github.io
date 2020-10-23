@@ -1,0 +1,26 @@
+title: "Anton Belyy"
+url: "https://avbelyy.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "#hi-im-anton"
+ - name: "CV"
+   link: "cv-fall2020.pdf"
+ - name: "Publications"
+   link: "#publications"
+ - name: "Projects"
+   link: "#open-source-projects"
