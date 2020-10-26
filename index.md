@@ -27,6 +27,8 @@ I received B.Sc. in Applied Maths and Computer Science from [ITMO University](ht
 
 ## Open source projects
 
+My web-dev projects, written (mostly) on the rare occasions of having spare time, and mostly to play with a fancy new Web framework :)   
+
 <img src="img/projects/schema-blocks.png" alt="schema-blocks screenshot" style="width: 200px"/> | **SchemaBlocks** (2019 -- present) <br> A web-based UI for "programming" [KAIROS schemas](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), specifying events, relations, and entity types. Based on [Google Blockly](https://github.com/google/blockly). | [[code]](http://github.com/AVBelyy/SchemaBlocks) [[demo]](http://cs.jhu.edu/~abel/SchemaBlocks) 
 <img src="img/projects/rysearch.jpg" alt="rysearch screenshot" style="width: 200px"/> | **Rysearch** (2017 -- 2019) <br> An [explorato*ry* *search*](https://en.wikipedia.org/wiki/Exploratory_search) engine, that uses topic models to organize popular science literature into a hierarchical map and perform inexact document queries over this map. Based on [FoamTree](https://carrotsearch.com/foamtree/) and [hARTM](http://jmlda.org/papers/doc/2016/no2/Chirkova2016hARTM.pdf). | [[code]](http://github.com/AVBelyy/Rysearch)
 <img src="img/projects/esenin.jpg" alt="esenin screenshot" style="width: 200px"/> | **Esenin** (2013) <br> A karaoke music player, featuring songs based on lyrics of a great 20th-century Russian poet [Sergey Esenin](https://en.wikipedia.org/wiki/Sergei_Yesenin). Written overnight from scratch in [CoffeeScript](https://coffeescript.org/). | [[code]](http://github.com/AVBelyy/esenin) 
