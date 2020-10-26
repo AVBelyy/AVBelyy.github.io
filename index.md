@@ -18,14 +18,14 @@ I develop efficient algorithms for large-scale **information retrieval** and str
 My background is in Algorithms, Machine Learning and Software Development: prior to PhD, I interned at [JetBrains](https://www.jetbrains.com/), worked for a year as a Backend Developer at [VK](https://en.wikipedia.org/wiki/VK_(service)) and for two years as a Senior Data Scientist at [Tochka Bank](https://tochka.com/).
 I received B.Sc. in Applied Maths and Computer Science from [ITMO University](https://en.itmo.ru/), where I've collaborated with [Andrey Filchenkov](https://scholar.google.ru/citations?user=ry63T9QAAAAJ&hl=en&oi=ao) and [Konstantin Vorontsov](https://scholar.google.ru/citations?user=KIW4fnsAAAAJ&hl=en&oi=ao) on building [exploratory search engines](https://github.com/AVBelyy/Rysearch) and [plagiarism detection tools](http://itmo.news/en/science/it/news/8440/).
 
-## Publications
+## My papers
 
 <img src="img/publications/si-as-arm.png" alt="SI as ARM screenshot" style="width: 200px"/> | **Script Induction As Association Rule Mining.** <br>Anton Belyy and Benjamin Van Durme. **ACL Workshop on Narrative Understanding, Storylines, and Events 2020.** | [[paper]](https://www.aclweb.org/anthology/2020.nuse-1.7/) [[slides]](https://slideslive.com/38929746/script-induction-as-association-rule-mining) [[code]](https://github.com/AVBelyy/arm-nachos)
 <img src="img/publications/normplagdet.png" alt="Normplagdet screenshot" style="width: 200px"/> | **Improved Evaluation Framework for Complex Plagiarism Detection.** <br>Anton Belyy, Marina Dubova, and Dmitry Nekrasov. **ACL 2018.** | [[paper]](http://www.aclweb.org/anthology/P18-2026) [[poster]](http://anthology.aclweb.org/attachments/P18-2026.Poster.pdf) [[code]](https://github.com/AVBelyy/normplagdet)
 <img src="img/publications/rusplagiarism.png" alt="Russian plagiarism detection screenshot" style="width: 200px"/> | **Framework for Russian Plagiarism Detection Using Sentence Embedding Similarity and Negative Sampling.** <br>Anton Belyy and Marina Dubova. **Dialogue 2018.** | [[paper]](http://www.dialog-21.ru/media/4289/belyyav_dubovama.pdf) [[slides]](http://www.dialog-21.ru/media/4351/belyy_dubova.pdf) [[code]](https://github.com/AVBelyy/hack-the-plag-2017) 
 <img src="img/publications/hartm.png" alt="Hiearchical ARTM improvement screenshot" style="width: 200px"/> | **Quality Evaluation and Improvement for Hierarchical Topic Modeling.** <br>Anton Belyy, Mariia Seleznova, Alexey Sholokhov, and Konstantin Vorontsov. **Dialogue 2018.** | [[paper]](http://www.dialog-21.ru/media/4562/belyyavplusetal.pdf) [[slides]](http://www.dialog-21.ru/media/4352/belyy_seleznova.pdf) [[demo]](https://github.com/AVBelyy/Rysearch)
 
-## Open source projects
+## Fun projects
 
 My web-dev projects, written (mostly) on the rare occasions of having spare time, and mostly to play with a fancy new Web framework :)   
 
