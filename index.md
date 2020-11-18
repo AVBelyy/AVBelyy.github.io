@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[<img class="profile-picture" src="img/about/anton_sq.jpg">](img/about/anton.jpg) | ru-RU: Антон Белый / zh-CN: 安东·贝里 / IPA: [ɐn̪'t̪o̞n̪ 'bʲeɫɨç] <br><br> [abel@jhu.edu](mailto:abel@jhu.edu) / [Scholar](https://scholar.google.com/citations?user=okfWOCsAAAAJ) / [Github](https://github.com/AVBelyy/) / [LinkedIn](https://www.linkedin.com/in/anton-belyy-99704310b/) / [Instagram](https://www.instagram.com/tohnann/) <br><br> natural language processing / machine learning / algorithms
+[<img class="profile-picture" src="img/about/anton_sq.jpg">](img/about/anton.jpg) | ru-RU: Антон Белый / zh-CN: 安东·贝里 / IPA: [ɐn̪'t̪o̞n̪ 'bʲeɫɨç] <br><br> [abel@jhu.edu](mailto:abel@jhu.edu) / [Scholar](https://scholar.google.com/citations?user=okfWOCsAAAAJ) / [Github](https://github.com/AVBelyy/) / [LinkedIn](https://www.linkedin.com/in/anton-belyy-99704310b/) <br><br> natural language processing / machine learning / algorithms
 
 ## Hi, I'm Anton!
 I am a 2<sup>nd</sup> year PhD student at the [Center of Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP) at Johns Hopkins University. I am fortunate to be advised by [Benjamin Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Vladimir Braverman](http://www.cs.jhu.edu/~vova/).
