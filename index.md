@@ -22,7 +22,7 @@ I received B.Sc. in Applied Maths and Computer Science from [ITMO University](ht
 
 ## Fun projects
 
-My web-dev projects, written (mostly) on the rare occasions of having spare time, and mostly to play with a fancy new Web framework :)   
+My web-dev projects, written (mostly) on the rare occasions of having spare time, and mostly to play with a fancy new Web framework :)
 
 <img src="img/projects/schema-blocks.png" alt="schema-blocks screenshot" style="width: 200px"/> | **SchemaBlocks** (2019 -- present) <br> A web-based UI for "programming" [KAIROS schemas](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), specifying events, relations, and entity types. Based on [Google Blockly](https://github.com/google/blockly). | [[code]](http://github.com/AVBelyy/SchemaBlocks) [[demo]](http://sb.retloko.org)
 <img src="img/projects/rysearch.jpg" alt="rysearch screenshot" style="width: 200px"/> | **Rysearch** (2017 -- 2019) <br> An [explorato*ry* *search*](https://en.wikipedia.org/wiki/Exploratory_search) engine, that uses topic models to organize popular science literature into a hierarchical map and perform inexact document queries over this map. Based on [FoamTree](https://carrotsearch.com/foamtree/) and [hARTM](http://jmlda.org/papers/doc/2016/no2/Chirkova2016hARTM.pdf). | [[code]](http://github.com/AVBelyy/Rysearch) [[demo]](http://rysearch.retloko.org)
