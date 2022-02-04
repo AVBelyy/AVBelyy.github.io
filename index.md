@@ -7,7 +7,7 @@ layout: default
 ## Hi, I'm Anton!
 I am a 3<sup>rd</sup> year PhD student at the [Center of Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP) at Johns Hopkins University. I am fortunate to be advised by [Benjamin Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Vladimir Braverman](http://www.cs.jhu.edu/~vova/).
 
-I develop efficient algorithms for large-scale **similarity search** and semantically-aware **structured induction**. I also **build annotation systems** that allow humans and machines to collaborate on labeling structured data such as **scripts** or **schemas**.        
+I develop efficient algorithms for large-scale **similarity search** and semantically-aware **data mining**. I also **build annotation systems** that allow humans and machines to collaborate on labeling structured data such as **scripts** or **schemas**.        
 
 My background is in Algorithms, Machine Learning and Software Development: prior to PhD, I interned at [JetBrains](https://www.jetbrains.com/), worked for a year as a Backend Developer at [VK](https://en.wikipedia.org/wiki/VK_(service)) and for two years as a Senior Data Scientist at [Tochka Bank](https://tochka.com/).
 I received B.Sc. in Applied Maths and Computer Science from [ITMO University](https://en.itmo.ru/), where I've collaborated with [Andrey Filchenkov](https://scholar.google.ru/citations?user=ry63T9QAAAAJ&hl=en&oi=ao) and [Konstantin Vorontsov](https://scholar.google.ru/citations?user=KIW4fnsAAAAJ&hl=en&oi=ao) on building [exploratory search engines](https://github.com/AVBelyy/Rysearch) and [plagiarism detection tools](http://itmo.news/en/science/it/news/8440/).
