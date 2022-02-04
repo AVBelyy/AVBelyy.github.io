@@ -21,6 +21,6 @@ nav:
  - name: "CV"
    link: "cv-spring2022.pdf"
  - name: "Papers"
-   link: "#my-papers"
+   link: "#papers"
  - name: "Projects"
    link: "#fun-projects"
