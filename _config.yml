@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "#hi-im-anton"
+ - name: "CV"
+   link: "cv-summer2022.pdf"
  - name: "Résumé"
    link: "resume-summer2022.pdf"
  - name: "Papers"
