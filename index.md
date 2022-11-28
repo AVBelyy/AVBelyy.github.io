@@ -5,12 +5,9 @@ layout: default
 <img class="profile-picture" src="img/about/anton.jpg"> | ru-RU: Антон Белый / zh-CN: 安东·别里 / IPA: [ɐn̪'t̪o̞n̪ 'bʲeɫɨç] <br><br> [LinkedIn](https://www.linkedin.com/in/anton-belyy-99704310b/) / [Github](https://github.com/AVBelyy/) / [Scholar](https://scholar.google.com/citations?user=okfWOCsAAAAJ) <br><br> natural language processing / machine learning / algorithms
 
 ## Hi, I'm Anton!
-I am a 3<sup>rd</sup> year PhD student at the [Center of Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP) at Johns Hopkins University. I am fortunate to be advised by [Benjamin Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Vladimir Braverman](http://www.cs.jhu.edu/~vova/).
+I am a Machine Learning Engineer at Apple, where I build scalable ML systems to transform unstructured, noisy Web data into structured, verified factual knowledge.
 
-I develop efficient algorithms for large-scale **similarity search** and semantically-aware **data mining**. I also **build annotation systems** that allow humans and machines to collaborate on labeling structured data such as **scripts** or **schemas**.
-
-My background is in Algorithms, Machine Learning and Software Development: prior to PhD, I interned at [JetBrains](https://www.jetbrains.com/), worked for a year as a Backend Developer at [VK](https://en.wikipedia.org/wiki/VK_(service)) and for two years as a Senior Data Scientist at [Tochka Bank](https://tochka.com/).
-I received B.Sc. in Applied Maths and Computer Science from [ITMO University](https://en.itmo.ru/), where I've collaborated with [Andrey Filchenkov](https://scholar.google.ru/citations?user=ry63T9QAAAAJ&hl=en&oi=ao) and [Konstantin Vorontsov](https://scholar.google.ru/citations?user=KIW4fnsAAAAJ&hl=en&oi=ao) on building [exploratory search engines](https://github.com/AVBelyy/Rysearch) and [plagiarism detection tools](http://itmo.news/en/science/it/news/8440/).
+Prior to Apple, I completed my Masters Degree at the [Center of Language and Speech Processing](https://www.clsp.jhu.edu/) at Johns Hopkins University, and my Bachelors Degree at the [Computer Technologies Department](https://ct.itmo.ru/) at ITMO University.  During my Masters, I developed algorithms for [automatic](https://aclanthology.org/2020.nuse-1.7/) and [semi-automatic](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LAWXVI/pdf/2022.lawxvi-1.17.pdf) schema induction.  I also built human-in-the-loop augmented systems for [semantic parsing annotation](https://aclanthology.org/2022.acl-demo.11/) and [story generation](https://aclanthology.org/2021.starsem-1.12/).  During my Bachelors, I led the development of an [exploratory search engine](https://github.com/AVBelyy/Rysearch) and a [plagiarism detection framework](http://itmo.news/en/science/it/news/8440/).  I also worked at [Tochka Bank](https://tochka.com/) as a Senior Data Scientist, and at [VK](https://en.wikipedia.org/wiki/VK_(service)) as a Software Engineer.
 
 ## Papers
 
