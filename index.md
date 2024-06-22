@@ -26,7 +26,7 @@ I completed my Masters Degree at the [Center for Language and Speech Processing]
 
 ## Fun projects
 
-My toy projects from high school and undergrad, written (mostly) to have fun and teach myself a new framework / language:
+My toy projects from high school and undergrad, written (mostly) to have fun and play with a shiny new (at the time) framework or language:
 
 <img src="img/projects/rysearch.jpg" alt="rysearch screenshot" style="width: 200px"/> | **Rysearch** (2017 -- 2019) <br> An [explorato*ry* *search*](https://en.wikipedia.org/wiki/Exploratory_search) engine, that uses interpretable topic models to organize popular science literature into a hierarchical map and perform document search. Built using Node.js, MongoDB, ZeroMQ, FoamTree, and [BigARTM](https://github.com/bigartm/bigartm). | [[code]](http://github.com/AVBelyy/Rysearch) [[demo]](http://rysearch.retloko.org)
 <img src="img/projects/esenin.jpg" alt="esenin screenshot" style="width: 200px"/> | **Esenin** (2013) <br> A karaoke music player, featuring songs based on verses of a great 20th-century Russian poet [Sergey Esenin](https://en.wikipedia.org/wiki/Sergei_Yesenin). Written overnight using Node.js, Express and CoffeeScript. | [[code]](http://github.com/AVBelyy/esenin) [[demo]](http://esenin.retloko.org)
