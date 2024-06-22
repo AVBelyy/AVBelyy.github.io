@@ -5,14 +5,14 @@ layout: default
 <img class="profile-picture" src="img/about/anton.jpg"> | ru-RU: Антон Белый / zh-CN: 安东·别里 / IPA: [ɐn̪'t̪o̞n̪ 'bʲeɫɨç] <br><br> [LinkedIn](https://www.linkedin.com/in/anton-belyy-99704310b/) / [Github](https://github.com/AVBelyy/) / [Scholar](https://scholar.google.com/citations?user=okfWOCsAAAAJ) <br><br> natural language processing / machine learning / algorithms
 
 ## Hi, I'm Anton!
-I am a Senior Machine Learning Engineer at Stripe, where I build ML systems for credit risk detection. Prior to Stripe, I have worked at:
+I am a Senior Machine Learning Engineer at [Stripe](https://stripe.com/), where I build ML systems for credit risk detection. Prior to Stripe, I have worked at:
 * [Apple](https://www.apple.com/): on knowledge graphs and multimodal LLMs,
 * [Tochka Bank](https://tochka.com/): on financial risk detection,
 * [VK](https://en.wikipedia.org/wiki/VK_(service)): on ad fraud detection.
 
 I completed my Masters Degree at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at Johns Hopkins University, and my Bachelors Degree at the [Computer Technologies Department](https://ct.itmo.ru/) at ITMO University.
 
-## Select Papers
+## Research papers
 
 <img src="img/publications/fleek.png" alt="Fleek paper" style="width: 200px"/> | **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge.** Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, Yunyao Li. **EMNLP Demo Track 2023.** | [[paper]](https://aclanthology.org/2023.emnlp-demo.10.pdf)<br>[[demo]](https://www.youtube.com/watch?v=NapJFUlkPdQ)
 <img src="img/publications/ftc.png" alt="FTC paper" style="width: 200px"/> | **Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI.** Suzanna Sia, Anton Belyy, Amjad Almahairi, Madian Khabsa, Luke Zettlemoyer, and Lambert Mathias. **AAAI 2023.** | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26174)
@@ -26,7 +26,7 @@ I completed my Masters Degree at the [Center for Language and Speech Processing]
 
 ## Fun projects
 
-My toy projects from high school and undergrad, written (mostly) to teach myself a new Web Dev framework:
+My toy projects from high school and undergrad, written (mostly) to have fun and teach myself a new framework / language:
 
 <img src="img/projects/rysearch.jpg" alt="rysearch screenshot" style="width: 200px"/> | **Rysearch** (2017 -- 2019) <br> An [explorato*ry* *search*](https://en.wikipedia.org/wiki/Exploratory_search) engine, that uses interpretable topic models to organize popular science literature into a hierarchical map and perform document search. Built using Node.js, MongoDB, ZeroMQ, FoamTree, and [BigARTM](https://github.com/bigartm/bigartm). | [[code]](http://github.com/AVBelyy/Rysearch) [[demo]](http://rysearch.retloko.org)
 <img src="img/projects/esenin.jpg" alt="esenin screenshot" style="width: 200px"/> | **Esenin** (2013) <br> A karaoke music player, featuring songs based on verses of a great 20th-century Russian poet [Sergey Esenin](https://en.wikipedia.org/wiki/Sergei_Yesenin). Written overnight using Node.js, Express and CoffeeScript. | [[code]](http://github.com/AVBelyy/esenin) [[demo]](http://esenin.retloko.org)
