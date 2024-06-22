@@ -5,11 +5,14 @@ layout: default
 <img class="profile-picture" src="img/about/anton.jpg"> | ru-RU: Антон Белый / zh-CN: 安东·别里 / IPA: [ɐn̪'t̪o̞n̪ 'bʲeɫɨç] <br><br> [LinkedIn](https://www.linkedin.com/in/anton-belyy-99704310b/) / [Github](https://github.com/AVBelyy/) / [Scholar](https://scholar.google.com/citations?user=okfWOCsAAAAJ) <br><br> natural language processing / machine learning / algorithms
 
 ## Hi, I'm Anton!
-I am a Machine Learning Engineer at Stripe, where I build ML systems for financial risk detection. Prior to that, I was working at Apple on knowledge graphs and multimodal large language models.
+I am a Senior Machine Learning Engineer at Stripe, where I build ML systems for credit risk detection. Prior to Stripe, I have worked at:
+* [Apple](https://www.apple.com/): on knowledge graphs and multimodal LLMs,
+* [Tochka Bank](https://tochka.com/): on financial risk detection,
+* [VK](https://en.wikipedia.org/wiki/VK_(service)): on ad fraud detection.
 
-Prior to Stripe and Apple, I completed my Masters Degree at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at Johns Hopkins University, and my Bachelors Degree at the [Computer Technologies Department](https://ct.itmo.ru/) at ITMO University.  During my Masters, I developed algorithms for [automatic](https://aclanthology.org/2020.nuse-1.7/) and [semi-automatic](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LAWXVI/pdf/2022.lawxvi-1.17.pdf) schema induction.  I also built human-in-the-loop augmented systems for [semantic parsing annotation](https://aclanthology.org/2022.acl-demo.11/) and [story generation](https://aclanthology.org/2021.starsem-1.12/).  During my Bachelors, I led the development of an [exploratory search engine](https://github.com/AVBelyy/Rysearch) and a [plagiarism detection framework](http://itmo.news/en/science/it/news/8440/).  I also worked at [Tochka Bank](https://tochka.com/) as a Senior Data Scientist, and at [VK](https://en.wikipedia.org/wiki/VK_(service)) as a Software Engineer.
+I completed my Masters Degree at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at Johns Hopkins University, and my Bachelors Degree at the [Computer Technologies Department](https://ct.itmo.ru/) at ITMO University.
 
-## Papers
+## Select Papers
 
 <img src="img/publications/fleek.png" alt="Fleek paper" style="width: 200px"/> | **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge.** Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, Yunyao Li. **EMNLP Demo Track 2023.** | [[paper]](https://aclanthology.org/2023.emnlp-demo.10.pdf)<br>[[demo]](https://www.youtube.com/watch?v=NapJFUlkPdQ)
 <img src="img/publications/ftc.png" alt="FTC paper" style="width: 200px"/> | **Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI.** Suzanna Sia, Anton Belyy, Amjad Almahairi, Madian Khabsa, Luke Zettlemoyer, and Lambert Mathias. **AAAI 2023.** | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26174)
@@ -23,7 +26,7 @@ Prior to Stripe and Apple, I completed my Masters Degree at the [Center for Lang
 
 ## Fun projects
 
-My web-dev projects, written (mostly) on the rare occasions of having spare time, and mostly to play with a fancy new Web framework :)
+My toy projects from high school and undergrad, written (mostly) to teach myself a new Web Dev framework:
 
 <img src="img/projects/rysearch.jpg" alt="rysearch screenshot" style="width: 200px"/> | **Rysearch** (2017 -- 2019) <br> An [explorato*ry* *search*](https://en.wikipedia.org/wiki/Exploratory_search) engine, that uses interpretable topic models to organize popular science literature into a hierarchical map and perform document search. Built using Node.js, MongoDB, ZeroMQ, FoamTree, and [BigARTM](https://github.com/bigartm/bigartm). | [[code]](http://github.com/AVBelyy/Rysearch) [[demo]](http://rysearch.retloko.org)
 <img src="img/projects/esenin.jpg" alt="esenin screenshot" style="width: 200px"/> | **Esenin** (2013) <br> A karaoke music player, featuring songs based on verses of a great 20th-century Russian poet [Sergey Esenin](https://en.wikipedia.org/wiki/Sergei_Yesenin). Written overnight using Node.js, Express and CoffeeScript. | [[code]](http://github.com/AVBelyy/esenin) [[demo]](http://esenin.retloko.org)
