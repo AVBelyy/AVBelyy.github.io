@@ -6,8 +6,8 @@ layout: default
 
 ## Hi, I'm Anton!
 I am a Senior Machine Learning Engineer at [Stripe](https://stripe.com/), where I build ML systems for credit risk detection. Prior to Stripe, I have worked at:
-* [Apple](https://www.apple.com/): on knowledge graphs and multimodal LLMs,
-* [Tochka Bank](https://tochka.com/): on financial risk detection,
+* [Apple](https://www.apple.com/): on knowledge graphs and LLM datasets,
+* [Tochka Bank](https://tochka.com/): on compliance risk detection,
 * [VK](https://en.wikipedia.org/wiki/VK_(service)): on ad fraud detection.
 
 I completed my Masters Degree at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at Johns Hopkins University, and my Bachelors Degree at the [Computer Technologies Department](https://ct.itmo.ru/) at ITMO University.
